@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I am Umer Farooq
+
+Fullstack Developer at Diconium
+ - Fullstack development
+ - I am passionate about learning new technologies
+ - I have keen interest in AI advancement
 
 <!--
 **umerfarooq-diconium/umerfarooq-diconium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
